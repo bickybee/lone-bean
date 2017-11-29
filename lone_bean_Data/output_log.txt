@@ -1,0 +1,36 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x8007000e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igxprd32.dll 6.14.10.4926]
+    Renderer: Intel(R) 945G
+    Vendor:   Intel
+    VRAM:     64 MB (via fallback)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.098 seconds
+Platform assembly: Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\Users\elainebilbily\OneDrive - McMaster University\code\lonely_bean\lone_bean_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Touch support initialization failed: Call not implemented.
+.
+UnloadTime: 1.750700 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.266700 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 392.
+Total: 0.816700 ms (FindLiveObjects: 0.038600 ms CreateObjectMapping: 0.045500 ms MarkObjects: 0.678300 ms  DeleteObjects: 0.049100 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 48 -> priority: 1 
